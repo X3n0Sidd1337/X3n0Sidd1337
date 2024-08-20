@@ -10,7 +10,7 @@
 
 💬 Ask Me About: Best Practices In Cybersecurity, Encryption Techniques, And Ethical Hacking.
 
-📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/siddharth-bej-503822258/)
+📫 How to reach me: You can contact me via [LinkedIn!](https://www.linkedin.com/in/siddharth-bej-503822258/)
 
 😄 Pronouns: He/Him
 
