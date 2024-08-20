@@ -14,6 +14,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x3n0sidd1337&label=Profile%20views&color=0e75b6&style=flat" alt="x3n0sidd1337" /> </p>
 
+[![Siddharth-31's GitHub | Stats](https://stats.quira.sh/Siddharth-31/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Siddharth-31)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
