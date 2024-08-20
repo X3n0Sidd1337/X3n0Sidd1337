@@ -16,6 +16,8 @@
 
 [![Siddharth-31's GitHub | Stats](https://stats.quira.sh/Siddharth-31/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Siddharth-31)
 
+[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
