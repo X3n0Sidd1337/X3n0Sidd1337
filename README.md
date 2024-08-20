@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi theren, I'm Siddharth 👋
 
-<!--
-**X3n0Sidd1337/X3n0Sidd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+🔭 I’m Currently Working On: Strengthening Cybersecurity Defenses And Exploring New Vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m Currently Learning: Advanced Threat Detection Techniques And The Latest In Encryption Algorithms.
+
+👯 I’m Looking To Collaborate On: Cybersecurity Projects, Vulnerability Assessments, And Open-Source Security Tools.
+
+🤔 I’m Looking For Help With: Innovative Solutions For Emerging Threats And Improving My Skills In Advanced Penetration Testing.
+
+💬 Ask Me About: Best Practices In Cybersecurity, Encryption Techniques, And Ethical Hacking.
+
+📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/siddharth-bej-503822258/)
+
+😄 Pronouns: He/Him
 
