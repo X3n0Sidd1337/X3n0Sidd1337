@@ -14,7 +14,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x3n0sidd1337&label=Profile%20views&color=0e75b6&style=flat" alt="x3n0sidd1337" /> </p>
 
-[![Siddharth-31's GitHub | Stats](https://stats.quira.sh/Siddharth-31/github?theme=dark)](https://quira.sh)
+<!---[![Siddharth-31's GitHub | Stats](https://stats.quira.sh/Siddharth-31/github?theme=dark)](https://quira.sh)--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
