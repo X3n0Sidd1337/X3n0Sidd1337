@@ -11,10 +11,6 @@
 - 💡 Let's Talk About: Cyber Defense Tactics, Encryption Mastery, And Ethical Hacking – My True Passions.
 
 - 👤 Pronouns: He/Him
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x3n0sidd1337&label=Profile%20views&color=0e75b6&style=flat" alt="x3n0sidd1337" /> </p>
-
-<!---[![Siddharth-31's GitHub | Stats](https://stats.quira.sh/Siddharth-31/github?theme=dark)](https://quira.sh)--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -30,6 +26,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=x3n0sidd1337&label=Profile%20views&color=0e75b6&style=flat" alt="x3n0sidd1337" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=X3n0Sidd1337&theme=vue&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3n0Sidd1337&theme=vue&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0Sidd1337&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
