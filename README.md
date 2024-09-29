@@ -1,16 +1,16 @@
 ## Hi there, I'm Siddharth! 👋
 
-- 🔭 I’m Currently Working On: Strengthening Cybersecurity Defenses And Exploring New Vulnerabilities.
+- 🔥 Driven By: A Passion For Building Resilient Cybersecurity Systems And Uncovering Vulnerabilities Before They Become Threats.
 
-- 🌱 I’m Currently Learning: Advanced Threat Detection Techniques And The Latest In Encryption Algorithms.
+- 🔬 Constantly Learning: Exploring cutting-edge threat detection techniques and innovative security strategies to outsmart evolving cyber threats.
 
-- 👯 I’m Looking To Collaborate On: Cybersecurity Projects, Vulnerability Assessments, And Open-Source Security Tools.
+- 🌍 Collaborating With: Like-Minded Security Enthusiasts On Innovative Projects, Vulnerability Assessments, And Developing Open-Source Security Solutions.
 
-- 🤔 I’m Looking For Help With: Innovative Solutions For Emerging Threats And Improving My Skills In Advanced Penetration Testing.
+- 🚧 Seeking Challenges In: Penetration Testing That Pushes Boundaries And Inventive Strategies To Counter New, Evolving Cyber Threats.
 
-- 💬 Ask Me About: Best Practices In Cybersecurity, Encryption Techniques, And Ethical Hacking.
+- 💡 Let's Talk About: Cyber Defense Tactics, Encryption Mastery, And Ethical Hacking – My True Passions.
 
-- 😄 Pronouns: He/Him
+- 👤 Pronouns: He/Him
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x3n0sidd1337&label=Profile%20views&color=0e75b6&style=flat" alt="x3n0sidd1337" /> </p>
 
