@@ -30,7 +30,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/siddharth-bej-503822258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-bej-503822258" height="30" width="40"></a>
-    <a href="https://tryhackme.com/p/0xSid"
-    target="blank"><img align="center" src="https://simpleicons.org/icons/tryhackme.svg" alt="0xSid" height="30" width="40"></a>
-    <a href="https://app.hackthebox.com/profile/2051892" target="blank"><img align="center" src="https://simpleicons.org/icons/hackthebox.svg" alt="0xSid" height="30" width="40"></a>
+    <a href="https://tryhackme.com/p/0xSid" target="blank"><img align="center" src="https://simpleicons.org/icons/tryhackme.svg" alt="0xSid" height="30" width="40"></a>
+    <a href="https://app.hackthebox.com/profile/2051892" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="0xSid" height="30" width="40"></a>
 </p>
