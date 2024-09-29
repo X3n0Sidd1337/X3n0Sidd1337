@@ -23,7 +23,10 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+    <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+    <a href="https://portswigger.net/burp/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" width="40" height="40" /> </a>
+    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="WireShark" width="40" height="40" /> </a>
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nmap_icon_132152.png" alt="Nmap" width="40" height="40" /> </a>
 </p>
 
 
