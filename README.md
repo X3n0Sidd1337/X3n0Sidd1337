@@ -39,4 +39,4 @@
     <a href="https://www.credly.com/users/siddharth-bej" target="_blank" rel="noreferrer"><img align="center" src="https://simpleicons.org/icons/credly.svg" alt="0xSid" height="30" width="40"></a>
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSid.png?update=1" alt="0xSid - TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xSid.png" alt="0xSid - TryHackMe Badge" />
