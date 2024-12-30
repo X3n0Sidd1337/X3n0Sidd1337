@@ -1,4 +1,4 @@
-## Hi there, I'm Siddharth! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=1EBEF7&background=6A763B00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Siddharth!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔥 Driven By: A Passion For Building Resilient Cybersecurity Systems And Uncovering Vulnerabilities Before They Become Threats.
 
