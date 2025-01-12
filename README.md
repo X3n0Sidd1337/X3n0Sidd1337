@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=1EBEF7&background=6A763B00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Siddharth!+%F0%9F%91%8B)](https://github.com/X3n0Sidd1337/)
 
-- 🔥 Driven By: A Passion For Building Resilient Cybersecurity Systems And Uncovering Vulnerabilities Before They Become Threats.
+- 🔥 Driven By: A love for creating secure systems and solving problems before they arise.
 
-- 🔬 Constantly Learning: Exploring cutting-edge threat detection techniques and innovative security strategies to outsmart evolving cyber threats.
+- 🔬 Constantly Learning: Discovering new ways to stay ahead of challenges in cybersecurity.
 
-- 🌍 Collaborating With: Like-Minded Security Enthusiasts On Innovative Projects, Vulnerability Assessments, And Developing Open-Source Security Solutions.
+- 🌍 Collaborating With: People who share a passion for building better security tools and solutions.
 
-- 🚧 Seeking Challenges In: Penetration Testing That Pushes Boundaries And Inventive Strategies To Counter New, Evolving Cyber Threats.
+- 🚧 Seeking Challenges In: Exploring creative approaches to testing systems and tackling evolving risks.
 
-- 💡 Let's Talk About: Cyber Defense Tactics, Encryption Mastery, And Ethical Hacking – My True Passions.
+- 💡 Let's Talk About: Ideas, tools, and techniques that make cybersecurity exciting. 
 
 - 👤 Pronouns: He/Him
 
